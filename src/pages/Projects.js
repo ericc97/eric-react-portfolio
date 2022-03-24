@@ -19,6 +19,13 @@ const Projects = () => {
 			description: "HTML/CSS/3rd Part API's/"
 		},
 		{
+			name: 'Catro-Gaming',
+			github: 'https://github.com/JoelKovalcson/Catro-Gaming',
+			image: 'bg-catrogaming',
+			live: 'https://catro-gaming.herokuapp.com',
+			description: "Node.js/Express.js/Apollo Server/GraphQL"
+		},
+		{
 			name: 'Coming soon...',
 			github: '',
 			image: 'bg-banner',

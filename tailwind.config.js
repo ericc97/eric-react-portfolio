@@ -7,7 +7,8 @@ module.exports = {
 			backgroundImage: {
 				'banner': "url('/src/assets/background.jpg')",
 				'devspark': "url('/src/assets/projects/devspark.png')",
-				'footballapp': "url('/src/assets/projects/footballapp.png')"
+				'footballapp': "url('/src/assets/projects/footballapp.png')",
+				'catrogaming': "url('src/assets/projects/catrogaming.png')"
 			},
 			colors: {
 				'offwhite': '#dddddd',
