@@ -12,7 +12,7 @@ const About = () => {
 			/>
 			</div>
 			
-			<p className='text-center p-2 text-lg mr-96'>
+			<p className='text-center text-lg mr-96'>
 				Hi, my name is
 			</p>
 			<h1 className="text-center p-2 text-7xl mr-40">
