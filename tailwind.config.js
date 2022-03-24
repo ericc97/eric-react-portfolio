@@ -12,7 +12,7 @@ module.exports = {
 			colors: {
 				'offwhite': '#dddddd',
 				'blue-header': '#7393B3',
-				'darkgrey': '#363636'
+				'peach-header': '#FDE0D9'
 			}
 		},
   },
