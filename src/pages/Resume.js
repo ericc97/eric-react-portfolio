@@ -36,7 +36,7 @@ const Resume = () => {
 			<a
 				href={require('../assets/Eric-resume-2022.pdf')}
 				download
-				className='text-2xl rounded-lg border-slate-500 bg-green-600 p-2 mt-2'
+				className='text-2xl rounded-lg border-slate-500 bg-gray-500 hover:bg-green-400 p-2 mt-2'
 			>
 				Click to Download Resume
 			</a>
@@ -56,7 +56,7 @@ const Resume = () => {
 				})}
 			</div>
 			<div className='mt-6'>
-				<span className='text-xl'>Skills</span>
+				<span className='text-xl'>Skills/Technologies</span>
 				{myResumeSkills.skills.map((skill, index) => {
 					return (
 						<div key={`skill-${index}`}>
