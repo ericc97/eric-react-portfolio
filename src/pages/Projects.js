@@ -9,7 +9,7 @@ const Projects = () => {
 			github: 'https://github.com/ericc97/devspark',
 			image: 'bg-devspark',
 			live: 'https://devsparkio.herokuapp.com/',
-			description: 'SQL,NODE.js,Express.js,Nodemailer,Socket.io'
+			description: 'SQL/NODE.js/Express.js/Nodemailer/Socket.io'
 		},
 		{
 			name: 'Football App',
