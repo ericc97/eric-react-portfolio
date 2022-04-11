@@ -14,6 +14,7 @@ const Resume = () => {
 			'Github/ Github Projects',
 			'Object Oriented Programming',
 			'Jest',
+			'React.js',
 			'HTML/CSS',
 			'SQL/NoSQL',
 			'Visual Studio Code',
